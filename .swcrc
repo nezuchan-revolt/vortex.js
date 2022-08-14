@@ -1,0 +1,9 @@
+{
+    "jsc": {
+        "parser": {
+            "syntax": "ecmascript",
+            "decorators": true
+        },
+        "target": "es2022"
+    }
+}
